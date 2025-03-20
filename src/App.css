@@ -1,0 +1,177 @@
+header {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(252, 252, 252);
+  display: flex;
+  align-items: center;
+}
+
+h4 {
+  font-size: 22px;
+  padding-left: 60px;
+}
+
+li {
+  list-style-type: none;
+  padding-left: 40px;
+}
+header button {
+  padding: 10px 20px;
+  width: 160px;
+  margin-left: 800px;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.cart {
+  padding-left: 10px;
+}
+
+.nol {
+  padding: 6px;
+  border: 1px solid black;
+  border-radius: 60%;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+
+}
+.container-fluid {
+  width: 100%;
+  height: 300px;
+  background-color: rgb(33, 37, 41);
+  color: white;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bold;
+}
+
+.container-fluid p {
+  text-align: center;
+  color: grey;
+  padding-top: 20px;
+  font-size: 24px;
+}
+
+.container2 {
+  width: 100%;
+  height: 450px;
+  display: flex;
+  margin-top: 50px;
+}
+
+.containers {
+  width: 270px;
+  height: 420px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 90px;
+  border: 1px solid rgb(185, 184, 184);
+}
+
+.top {
+  width: 100%;
+  height: 150px;
+  background-color: rgb(221, 221, 221);
+}
+
+.money {
+  text-align: center;
+  font-size: 30px;
+  color: grey;
+  position: relative;
+  left: 5px;
+  top: 36px;
+}
+
+.sale {
+  padding: 1px 6px;
+  background-color: rgb(33, 37, 41);
+  color: rgb(213, 209, 209);
+  border-radius: 4px;
+  position: absolute;
+  top: 480px;
+  left: 660px;
+}
+
+.sale1 {
+  padding: 1px 6px;
+  background-color: rgb(33, 37, 41);
+  color: rgb(213, 209, 209);
+  border-radius: 4px;
+  position: absolute;
+  top: 480px;
+  left: 1020px;
+}
+.sale2 {
+  padding: 1px 6px;
+  background-color: rgb(33, 37, 41);
+  color: rgb(213, 209, 209);
+  border-radius: 4px;
+  position: absolute;
+  top: 980px;
+  left: 300px;
+}
+.sale3 {
+  padding: 1px 6px;
+  background-color: rgb(33, 37, 41);
+  color: rgb(213, 209, 209);
+  border-radius: 4px;
+  position: absolute;
+  top: 980px;
+  left: 1020px;
+}
+
+h5 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.containers p {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.line {
+  color: grey;
+  text-decoration: line-through;
+}
+
+.buttonbox {
+  padding-top: 70px;
+}
+
+.buttonbox1 {
+  padding-top: 10px;
+}
+
+
+.containers button {
+  padding: 10px 20px;
+  margin-left: 70px;
+  border-radius: 6px;
+  background-color: white;
+}
+.containers button:hover {
+  background-color: black;
+  color: white;
+}
+
+.footerbox {
+  width: 100%;
+  height: 120px;
+  background-color: rgb(33, 37, 41);
+  margin-top: 80px;
+}
+
+.footerbox p {
+  color: rgb(213, 209, 209);
+  text-align: center;
+  padding-top: 50px;
+}
