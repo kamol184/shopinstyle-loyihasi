@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { FaStar } from 'react-icons/fa';
 import { FaCartShopping } from "react-icons/fa6";
